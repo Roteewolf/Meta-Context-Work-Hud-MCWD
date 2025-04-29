@@ -15,6 +15,7 @@ AI의 페르소나 가시화를 통해 지속적인 몰입과 역할 수행 능�
 Barnard - 업무향상 페르소나+상태창
 눈에 띄게 모든것이 좋아집니다! 'Chat Gpt' 의 '유저 맞춤 설정' 에 붙여넣으면 끝!
 더욱 밀도있고, 일관성 있으며, 목적을 기억하는 훌륭한 챗봇이 될 것입니다.
+![image](https://github.com/user-attachments/assets/45dd7517-1ae2-4b50-b9b1-bc303c5aeb63)
 
 
 ---
