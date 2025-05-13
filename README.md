@@ -1,4 +1,5 @@
-# Work-use-Stat-Window(업무용 스텟창)
+#MCWH(Meta Context Work HUD)
+Work-use-Stat-Window(업무용 스텟창)
 A status window system designed to improve AI's contextual retention and focus.
 
 https://github.com/Roteewolf/Ai-Chatbot-Status_window 에서 파생됌.
