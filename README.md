@@ -2,7 +2,7 @@
 Work-use-Stat-Window(업무용 스텟창)
 A status window system designed to improve AI's contextual retention and focus.
 
-https://github.com/Roteewolf/Ai-Chatbot-Status_window 에서 파생됌.
+https://github.com/Roteewolf/Meta-Context-Hud-MCH 에서 파생됌.
 
 AI의 맥락 유지력과 집중도를 향상시키기 위해 설계된 상태창 시스템입니다.  
 이 시스템은 모든 채팅 세션의 하단에 HUD 형태로 표시되며,  
